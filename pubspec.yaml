@@ -1,0 +1,34 @@
+name: ball_fortune
+description: "A fun and interactive app that gives you random fortunes like a Magic 8-Ball. Just shake your phone and get your fortune with a smooth animated reveal."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  sensors_plus: ^6.1.1
+  animated_text_kit: ^4.2.3
+  audioplayers: ^6.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/sound/magic.wav
+    - assets/8ball.png
+    - assets/logo.png
+  # To add assets to your application, add an assets section, like this:
+  # assets:
+  #   - images/a_dot_burr.jpeg
