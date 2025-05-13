@@ -20,7 +20,7 @@ Welcome to the **8-Ball Fortune Teller App**! Shake your phone, and get random m
 ![Splash Screen](assets/screenshots/1.png)
 *Splash Screen 1*
 
-![Splash Screen 2](assets/screenshots/1.png)
+![Splash Screen 2](assets/screenshots/2.png)
 *Splash Screen 2*
 
 ![Home Page](assets/screenshots/3.png)
